@@ -24,13 +24,10 @@ Currently working as a consultant at [Rollco](https://www.rollco.se)
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr>
+  <td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Digitizing Rollco's ordering system](https://www.rollco.se/produkter)  
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
